@@ -1,8 +1,8 @@
 # Code-for-a-Month
 
-Trying out concepts of 6 programming languages **[ C - C++ - Python - Ruby - Rust - JS ]** for a month with fun 🧛
+Concepts of 6 programming languages **[ C - C++ - Python - Ruby - Rust - JS ]** for a month with fun 🧛
 
-> Start date: 2022-01-22  | End date: 2022-02-22
+> Start date: 2022 - 01 - 22  |  End date: 2022 - 02 - 22
 
 > **Sun**  : [C](https://github.com/Saphall/Code-for-a-Month/tree/main/C)
 > **Mon**  : [C++](https://github.com/Saphall/Code-for-a-Month/tree/main/C%2B%2B)
