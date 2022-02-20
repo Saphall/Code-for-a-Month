@@ -3,7 +3,7 @@
 1. High speed and efficiency
 2. Performance critical systems
 
-### C as a founcation Technology:
+### C as a foundation Technology:
 
 - Kernels
 - System programming
