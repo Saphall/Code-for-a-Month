@@ -14,7 +14,7 @@
 
 **Run the program (Linux) :**
 
-> 1. `chmod +x run_c.sh (first time only)`
+> 1. `chmod +x run_c.sh` (first time only)
 > 2. `./run_c.sh `
 > 3. `./build/FILE_NAME_HERE`
 
