@@ -2,11 +2,11 @@
 # This file helps to build the C++ programs into 'build/' folder.
 
 # Commands :
-# _______________________________________
+# _________________________________________
 # | chmod +x run_c++.sh (first time only) |
 # | ./run_c++.sh                          |
-# | ./build/FILE_NAME_HERE              |
-# -_____________________________________-
+# | ./build/FILE_NAME_HERE                |
+# -_______________________________________-
 # eg. To run file `0-hello_world.cpp`, AFTER RUNNING `./run_c++.sh` RUN THE PROGRAM AS `./build/0-hello_world`
 
 # This compiles every C++ files(inside any directory) into `build/` folder.
