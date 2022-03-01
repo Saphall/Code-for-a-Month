@@ -1,3 +1,6 @@
+'''
+Sends email to a single user.
+'''
 import os
 import yagmail
 from pathlib import Path
